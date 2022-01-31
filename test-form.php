@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="https://dxc-demo-2.herokuapp.com/test.php" method="post">
+    <form action="https://poc-server.herokuapp.com/test.php" method="post">
         <label for="name">Name:</label>
         <input type="text" id="name" name="name">
         <br>
